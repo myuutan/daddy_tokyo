@@ -41,7 +41,7 @@ export default function Home() {
       <section className="relative min-h-screen flex items-center justify-center overflow-hidden">
         {/* Background Image */}
         <Image
-          src="/logo.png"
+          src="/daddy_tokyo/logo.png"
           alt="DADDY TOKYO"
           fill
           className="object-cover object-center"
@@ -149,7 +149,7 @@ export default function Home() {
                   <div className="text-center">
                     <div className="w-48 h-64 mx-auto mb-4 rounded-lg overflow-hidden shadow-lg">
                       <Image
-                        src="/representative.jpg"
+                        src="/daddy_tokyo/representative.jpg"
                         alt="西山 翔"
                         width={192}
                         height={256}
